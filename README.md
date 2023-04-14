@@ -1,4 +1,4 @@
-### Hi there 👋
+### About Me 👋
 
 <!--
 **ImArToAr/ImArToAr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello. I'm Armin. I'm attending high school and trying to learn programming. I'm interested in the fields of AI, machine learning, and robotics.
+- 💻 I'm currently working with Python.
+- 🌱 I wanna start working on back-end.
+- 🤖 I'm learning how to use Python for robotics projects.
+- 📚 I'm trying to learn more about subjects I'm interested in.
