@@ -19,3 +19,6 @@ Hello. I'm Armin. I'm a 16-year-old high school student and trying to learn prog
 - 🌱 I wanna start working on back-end.
 - 🤖 I'm learning how to use Python for robotics projects.
 - 📚 I'm studying on my own to improve my programming skills.
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Isa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
