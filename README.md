@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hello. I'm Armin. I'm a 16-year-old high school student and trying to learn programming. I'm interested in the fields of AI, machine learning, and robotics.
-- 💻 I'm currently working with Python.
-- 🌱 I wanna start working on back-end.
-- 🤖 I'm learning how to use Python for robotics projects.
-- 📚 I'm studying on my own to improve my programming skills.
+- I'm currently working with Python.
+- I wanna start working on back-end.
+- I'm learning how to use Python for robotics projects.
+- I'm studying on my own to improve my programming skills.
