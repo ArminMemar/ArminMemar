@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello. I'm Armin. I'm a 16-year-old high school student and trying to learn programming. I'm interested in the fields of AI, machine learning, and robotics.
+Hello. I'm Armin. I'm a high school student and trying to improve my skills in programming. I'm interested in the fields of AI, machine learning, and data science.
 - I'm currently working with Python.
 - I wanna start working on back-end.
 - I'm learning how to use Python for robotics projects.
