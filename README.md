@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 Hello. I'm Armin. I'm a high school student and trying to improve my skills in programming. I'm interested in the fields of AI, machine learning, and data science.
 - I'm currently working with Python.
 - I wanna start working on back-end.
-- I'm learning how to use Python for robotics projects.
-- I'm studying on my own to improve my programming skills.
+- I'm learning how to use Python in data science.
+- I'm studying on my own to learn more about AI.
