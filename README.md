@@ -1,7 +1,5 @@
 ## About Me
 
-Computer Science B.Sc. student with a strong passion for **mathematics**, **algorithms**, **machine learning**, and **data science**. I'm particularly interested in the intersection of theoretical mathematics and its real-world applications in secure communication and intelligent systems.
+Computer Science B.Sc. student with a strong passion for **mathematics** and **algorithms**. I am fascinated by the design, analysis, and optimization of computational processes, and by exploring how rigorous theoretical foundations can be applied to complex, real-world problems.
 
-I am self-taught, highly motivated, and continuously learning through independent study and hands-on projects. I'm currently working with **Python**, focusing on how it can be used for cryptography and algorithm design. At the same time, I'm exploring the foundations of machine learning to better understand its mathematical underpinnings and practical implementations.
-
-I aim to deepen my expertise and contribute to meaningful research in the future, while connecting with the broader scientific and engineering communities.
+I focus on deepening my understanding of algorithmic principles, problem-solving strategies, and computational reasoning, aiming to contribute to research that bridges theory and practical applications.
